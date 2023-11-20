@@ -33,3 +33,7 @@ npm run start will execute the following command:
 "start": "live-server & tailwindcss -i ./src/index.css -o ./dist/index.css --watch",
 ```
 
+## VSCode extension
+1. tailwind
+- Display underlying css
+- AutoComplete
