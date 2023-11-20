@@ -18,3 +18,11 @@
 .idea/
 node_modules/
 ```
+4. git status
+5. git add .
+6. git commit -m "create a project for tailwind css"
+
+## Install tailwind css
+1. https://tailwindcss.com/docs/installation
+2. follow the instructions of the installation page
+3. add src folder under tailwind-course
