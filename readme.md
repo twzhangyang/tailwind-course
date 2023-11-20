@@ -26,3 +26,10 @@ node_modules/
 1. https://tailwindcss.com/docs/installation
 2. follow the instructions of the installation page
 3. add src folder under tailwind-course
+
+## Start npm 
+npm run start will execute the following command:
+```shell
+"start": "live-server & tailwindcss -i ./src/index.css -o ./dist/index.css --watch",
+```
+
